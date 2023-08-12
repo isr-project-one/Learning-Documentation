@@ -28,3 +28,6 @@ Key features and aspects of the Spring framework include:
 12. **Spring Cloud**: Spring Cloud offers tools and patterns for building and deploying microservices and distributed systems.
 
 Spring's modular design allows developers to use specific components based on their application's needs. It has a large and active community, extensive documentation, and a wealth of third-party libraries and plugins. Spring Framework has become a de facto standard for Java application development in various industries due to its flexibility, scalability, and rich ecosystem.
+
+# Attached Images
+1[](images\spring\1-spring-and-jee.png)
